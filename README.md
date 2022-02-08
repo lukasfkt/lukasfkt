@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Nokia Networks
-- 🌱 I’m currently learning HTML,CSS,JavaScript,PHP,REACT, NODE.
-- 📫 How to reach me: tuttytanaka@hotmail.com or tuttytanaka@gmail.com
+- 🔭 I’m currently working on <b>Nokia Networks.</b>
+- 🌱 I’m currently learning <b>HTML,CSS,JavaScript,PHP,REACT, NODE.</b>
+- 📫 How to reach me: <b>tuttytanaka@hotmail.com or tuttytanaka@gmail.com</b>
 
 
