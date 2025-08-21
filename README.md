@@ -3,25 +3,23 @@
 </p>
 
 <p align="center">
-  <!-- Portfolio -->
-  <a href="https://lucas-tanaka-portfolio.vercel.app/" target="_blank">
+  <a class="no-underline" href="https://lucas-tanaka-portfolio.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img height="50" src="https://img.icons8.com/color/512/domain.png" alt="Portfolio"/>
-  </a>
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/lucas-tanaka-4221831a6">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a class="no-underline" href="https://www.linkedin.com/in/lucas-tanaka-4221831a6" target="_blank" rel="noopener noreferrer">
     <img height="50" src="https://img.icons8.com/color/512/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/tuttytanaka">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a class="no-underline" href="https://www.instagram.com/tuttytanaka" target="_blank" rel="noopener noreferrer">
     <img height="50" src="https://img.icons8.com/color/512/instagram-new.png" alt="Instagram"/>
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:lucasfktanaka@gmail.com">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a class="no-underline" href="mailto:lucasfktanaka@gmail.com" target="_blank" rel="noopener noreferrer">
     <img height="50" src="https://img.icons8.com/color/512/gmail-new.png" alt="Gmail"/>
-  </a>
-  <!-- WhatsApp -->
-  <a href="https://wa.me/5541996741515">
+  </a>&nbsp;&nbsp;&nbsp;
+  <a class="no-underline" href="https://wa.me/5541996741515" target="_blank" rel="noopener noreferrer">
     <img height="50" src="https://img.icons8.com/color/512/whatsapp--v1.png" alt="WhatsApp"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a class="no-underline" href="https://github.com/lukasfkt" target="_blank" rel="noopener noreferrer">
+    <img height="50" src="https://img.icons8.com/color/512/github--v1.png" alt="GitHub"/>
   </a>
 </p>
 
