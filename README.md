@@ -18,9 +18,6 @@
   <a class="no-underline" href="https://wa.me/5541996741515" target="_blank" rel="noopener noreferrer">
     <img height="50" src="https://img.icons8.com/color/512/whatsapp--v1.png" alt="WhatsApp"/>
   </a>&nbsp;&nbsp;&nbsp;
-  <a class="no-underline" href="https://github.com/lukasfkt" target="_blank" rel="noopener noreferrer">
-    <img height="50" src="https://img.icons8.com/color/512/github--v1.png" alt="GitHub"/>
-  </a>
 </p>
 
 ---
