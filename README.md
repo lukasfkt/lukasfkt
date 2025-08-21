@@ -3,15 +3,26 @@
 </p>
 
 <p align="center">
-<a href="https://lucas-tanaka-portfolio.vercel.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/lucas-tanaka-4221831a6">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://www.instagram.com/tuttytanaka">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+  <!-- Portfolio -->
+  <a href="https://lucas-tanaka-portfolio.vercel.app/">
+    <img height="50" src="https://img.icons8.com/color/512/domain.png" alt="Portfolio"/>
+  </a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/lucas-tanaka-4221831a6">
+    <img height="50" src="https://img.icons8.com/color/512/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/tuttytanaka">
+    <img height="50" src="https://img.icons8.com/color/512/instagram-new.png" alt="Instagram"/>
+  </a>
+  <!-- Gmail -->
+  <a href="mailto:lucasfktanaka@gmail.com">
+    <img height="50" src="https://img.icons8.com/color/512/gmail-new.png" alt="Gmail"/>
+  </a>
+  <!-- WhatsApp -->
+  <a href="https://wa.me/5541996741515">
+    <img height="50" src="https://img.icons8.com/color/512/whatsapp--v1.png" alt="WhatsApp"/>
+  </a>
 </p>
 
 ---
