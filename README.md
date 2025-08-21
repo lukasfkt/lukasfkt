@@ -4,7 +4,7 @@
 
 <p align="center">
   <!-- Portfolio -->
-  <a href="https://lucas-tanaka-portfolio.vercel.app/">
+  <a href="https://lucas-tanaka-portfolio.vercel.app/" target="_blank">
     <img height="50" src="https://img.icons8.com/color/512/domain.png" alt="Portfolio"/>
   </a>
   <!-- LinkedIn -->
